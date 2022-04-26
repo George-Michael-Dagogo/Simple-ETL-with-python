@@ -3,7 +3,9 @@
 
 # Task 2
 ### webscrape all the sites in text.csv and extract specific calculated data save them all to a dataframe and save as csv file (log.csv)
-### Specific calculated data  == POSITIVE SCORE','NEGATIVE SCORE' 
+### Specific calculated data  
+                         #'POSITIVE SCORE',
+                        # 'NEGATIVE SCORE' 
                        # 'POLARITY SCORE'
                        #'SUBJECTIVITY SCORE'
                        #'AVG SENTENCE LENGTH'
